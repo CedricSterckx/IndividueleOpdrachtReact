@@ -1,2 +1,2 @@
-# WebAndMobileWP2
+# WebAndMobile
 Inidviduele opdracht react web &amp; mobile
